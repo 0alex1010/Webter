@@ -9,7 +9,7 @@ sleep 10
 echo "Launched program: curl"
 curl -o webter.sh https://raw.githubusercontent.com/0alex1010/Webter/refs/heads/main/files/mac_file.sh
 echo "Launched shell script: webter.sh"
-bash webter.sh  # RUN the script
+py webter.sh  # RUN the script
 
 # Now, clean up the "webter" directory
 echo "End of script. Getting ready to exit..."
